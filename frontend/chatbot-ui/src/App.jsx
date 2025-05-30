@@ -1,4 +1,4 @@
-// Revamped Chatbot UI: Clean two-sided chat layout
+// Rdsdd evamped Chatbot UI: Clean two-sided chat layout
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 
